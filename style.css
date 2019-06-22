@@ -1,0 +1,59 @@
+.content {
+    margin: 0 0 0 5%;
+    font-size: 170%;
+    float: left;
+    width: 66%;
+}
+
+#photo {
+    width: 45%;
+    border: 2px solid black;
+}
+
+.mainmenu {
+    padding: 0 10% 0 10%;
+    width: 80%;
+    font-size: 260%;
+    background-color: #d5e4e8;
+}
+
+
+#buttonmidone {
+    padding: 0 2.15% 0 4.3%;
+}
+
+#buttonmidtwo {
+    padding: 0 4.3% 0 2.15%;
+}
+
+
+
+.bordermenu {
+    margin: 1.5% 3% 0 0;
+    padding: 0 15px;
+    border: 2px solid rgb(0, 0, 0);
+    float: right;
+    text-align: justify;
+    font-size: 120%;
+    background-color: #E8E5DE;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(218, 27, 21);
+}
+
+.righttab {
+    float: right;
+    width: 50%;
+}
+
+.lefttab {
+    float: left;
+    width: 50%;
+}
+
+td {
+    padding-left: 10px;
+}
