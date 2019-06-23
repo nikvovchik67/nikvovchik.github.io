@@ -42,6 +42,7 @@
 a {
     text-decoration: none;
     color: rgb(218, 27, 21);
+    text-shadow: 2px 2px 3px #2760a7;
 }
 
 .righttab {
